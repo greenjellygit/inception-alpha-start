@@ -6,16 +6,10 @@
 		<artifactId>inception-alpha-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>inception-alpha-web</artifactId>
-	<packaging>war</packaging>
-	<name>inception-alpha-web</name>
+	<artifactId>inception-alpha-service</artifactId>
+	<name>inception-alpha-service</name>
 
 	<dependencies>
-		<dependency>
-			<groupId>pl.jgreen.inception</groupId>
-			<artifactId>inception-alpha-service</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		<dependency>
 			<groupId>pl.jgreen.inception</groupId>
 			<artifactId>inception-alpha-model</artifactId>

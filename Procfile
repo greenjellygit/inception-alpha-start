@@ -1,0 +1,1 @@
+web: sh inception-alpha-heroku/target/bin/inception-alpha --spring.profiles.active=prod
